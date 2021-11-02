@@ -1,5 +1,5 @@
 # open_data_battle
-Хакатон [Open Data Battle](https://open-data-battle.geecko.com/issues) по Data Science от банка "Открытие". 
+Хакатон [Open Data Battle](https://open-data-battle.geecko.com/issues) по Data Science от банка "Открытие". 30-31 октября 2021г.
 
 ### 12 место(TOP-4%) 
 
