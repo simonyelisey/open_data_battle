@@ -44,3 +44,10 @@ Final submission в файле `odb_final_submission.csv`
 Для оценки качества используется метрика Mean Absolute Error.
 
 Лучший результат: `MAE = 0.05843`
+
+
+
+
+|1|Name|Status|
+|-|----|------|
+|0|djfv|<li> [ ] </li>|
